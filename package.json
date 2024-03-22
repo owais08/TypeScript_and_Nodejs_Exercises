@@ -1,7 +1,7 @@
 {
   "name": "typescript_and_nodejs_exercises",
   "version": "1.0.0",
-  "description": "",
+  "description": "TypeScript_and_Nodejs_Exercises",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
